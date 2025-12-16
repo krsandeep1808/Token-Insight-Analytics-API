@@ -229,6 +229,7 @@ curl http://localhost:3000/api/hyperliquid/0xabc123/pnl
 ## 👤 Author
 
 **Sandeep Kumar**
-Full-Stack Engineer
+**Full-Stack Engineer**
+
 
 ---
