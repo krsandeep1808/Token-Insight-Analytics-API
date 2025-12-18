@@ -9,7 +9,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// ✅ ADD THIS HEALTH ROUTE
 app.get("/health", (req, res) => {
   res.json({ status: "OK" });
 });
